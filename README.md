@@ -24,6 +24,9 @@ Antes de começarmos é indispensável você ter um adaptador de rede e segundo 
 -=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=--=-=-=-=-=
 
 -numeros.txt = É uma lista de senha criadas atráves do programa crunch
+
 -wlan0 = É o nome do meu adaptador de rede o seu pode ser diferente.
+
 -78:98:E8:DC:7D:A6 = É o nome do bssid do meu alvo do seu será diferente não copie
+
 -hack1 = É onde o arquivo cap será projetado, mas o nome é opcional p
